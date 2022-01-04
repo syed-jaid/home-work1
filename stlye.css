@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: rgb(91, 236, 255);
+}
+section{
+    display: flex;
+    padding-top: 40px;
+  
+}
+.hafe-with{
+    width: 50%;
+}
+.hafe-with img{
+ width: 75%;
+ padding-left: 100px;
+}
+.jas{
+    text-align: justify;
+}
+#pad{
+    padding-left: 5%;
+    color: rgb(229, 241, 240);
+}
+.batton{
+    text-decoration: none;
+    background-color: rgb(91, 236, 255);
+    font-size: 20px;
+}
+.batton{
+    padding: 10px 40px rgb(34, 20, 2) ;
+}
